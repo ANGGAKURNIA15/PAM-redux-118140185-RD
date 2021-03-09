@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var ON = \"\";\nexport var OFF = \"\";","map":{"version":3,"sources":["C:/Users/USER/Videos/PAM/PAM-React-Redux-main/redux/tipe.jsx"],"names":["ON","OFF"],"mappings":"AAAA,OAAO,IAAMA,EAAE,GAAG,EAAX;AACP,OAAO,IAAMC,GAAG,GAAG,EAAZ","sourcesContent":["export const ON = \"\";\r\nexport const OFF = \"\";\r\n"]},"metadata":{},"sourceType":"module"}
